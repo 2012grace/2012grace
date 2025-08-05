@@ -5,12 +5,15 @@
   <div class="carousel-inner">
     <div class="carousel-item active">
       <img src="image.png" class="d-block w-100" alt="Picture 1">
+      <p>Sorry Editing this Later!</p>
     </div>
     <div class="carousel-item">
       <img src="image.png" class="d-block w-100" alt="Picture 2">
+      <p>Sorry Editing this Later!</p>
     </div>
     <div class="carousel-item">
       <img src="image.png" class="d-block w-100" alt="Picture 3">
+      <p>Sorry Editing this Later!</p>
     </div>
   </div>
   <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleControls" data-bs-slide="prev">
