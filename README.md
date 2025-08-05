@@ -1,5 +1,6 @@
 ## Hi there 👋 !!!
 <p> sorry gonna edit this later </p>
+<p> This section contains spoilers to Grace/Moon/Avery's Ocs. Please proceed with caution!</p>
 
 <div id="carouselExampleControls" class="carousel slide" data-bs-ride="carousel">
   <div class="carousel-inner">
