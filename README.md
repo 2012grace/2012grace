@@ -13,7 +13,7 @@
       <p>(Spoilers for end of season 21) Poor Avery ;( </p>
     </div>
     <div class="carousel-item">
-      <img src="TBApic.png" class="d-block w-100" alt="Picture 3">
+      <img src="AveryinReality.png" class="d-block w-100" alt="Picture 3">
       <p>Sorry Editing this Later!</p>
     </div>
   </div>
