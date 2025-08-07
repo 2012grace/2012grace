@@ -5,15 +5,15 @@
 <div id="carouselExampleControls" class="carousel slide" data-bs-ride="carousel">
   <div class="carousel-inner">
     <div class="carousel-item active">
-      <img src="image.png" class="d-block w-100" alt="Picture 1">
+      <img src="TBApic.png" class="d-block w-100" alt="Picture 1">
       <p>Sorry Editing this Later!</p>
     </div>
     <div class="carousel-item">
-      <img src="image.png" class="d-block w-100" alt="Picture 2">
-      <p>Sorry Editing this Later!</p>
+      <img src="Glitching avery;(.png" class="d-block w-100" alt="Picture 2">
+      <p>(Spoilers for end of season 21) Poor Avery ;( </p>
     </div>
     <div class="carousel-item">
-      <img src="image.png" class="d-block w-100" alt="Picture 3">
+      <img src="TBApic.png" class="d-block w-100" alt="Picture 3">
       <p>Sorry Editing this Later!</p>
     </div>
   </div>
