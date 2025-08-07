@@ -14,7 +14,7 @@
     </div>
     <div class="carousel-item">
       <img src="AveryinRealtiy.png" class="d-block w-100" alt="Picture 3">
-      <p>AAAAAAAAAAAAAAAAAAAAA- Averyyyyyy-</p>
+      <p>(Spoilers from Series 2 and Avery backstory) AAAAAAAAAAAAAAAAAAAAA- Averyyyyyy-</p>
     </div>
   </div>
 </div>
