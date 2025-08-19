@@ -19,4 +19,9 @@
   </div>
 </div>
 
-
+<div class="Signatures">
+  <h2> Signatures! </h2>
+  <div class = "sig1">
+    <p> if you add your signature here, pls copy this and change the <div class = "sig1"> into another number and write it below! Thank you!</p>
+  </div>
+</div>
