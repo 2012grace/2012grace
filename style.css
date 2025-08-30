@@ -1,1 +1,170 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    
+}
 
+.navbarpart {
+    background-color: aliceblue;
+    color: blueviolet;
+    padding: 10px;
+    gap: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.navimg img{
+    height: 60px;
+}
+
+.navmenu {
+    display: flex;
+    align-items: center;
+    gap: 20px;
+    size: 50px;
+}
+.carousel{
+    width: 80vw;
+    margin: 40px auto 40px auto;
+    overflow: hidden;
+}
+
+.carouselofimages img {
+    width: 80vw;
+}
+
+.buttonss {
+    display: flex;
+    justify-content: space-between;
+    position: relative;
+    z-index: 10;
+    bottom: 500px;
+}
+
+.buttonss a {
+    display: inline-block;
+    width: 100px;
+    background-color: black;
+    color: white;
+    font-weight: bold;
+}
+
+.carouselofimages h1{
+    position: relative;
+    z-index: 10;
+    bottom: 200px;
+    font-family: sans-serif;
+    background-color: aqua;
+    color: rgb(0, 0, 0);
+    width: 400px;
+    padding: 10px 20px;
+}
+
+.mainfooter{
+    width: 100%;
+    background-color: rgb(70, 68, 83);
+    font-weight: 100;
+    font-size: 20px;
+    padding: 5px 0px;
+    color: azure;
+    text-align: center;
+    font-family: sans-serif;
+    position: fixed;
+    bottom: 0;
+}
+
+.btns{
+    display: none;
+    width: 40px;
+}
+
+#closebtn {
+    display: none;
+    background-color: rgb(53, 53, 53);
+    color: pink;
+    padding: 15px 20px;
+    border-radius: 4px;
+    margin-top: 40px;
+}
+
+.imgcarousel{
+    padding: 40px;
+    text-align: center;
+    font-family: sans-serif;
+}
+
+.carouselpart{
+    background-color: aliceblue;
+    padding: 20px;
+    box-shadow: 2px 2px 4px lightblue;
+    border-radius: 10px;
+    margin-top: 20px;
+}
+
+.carouselpart button{
+    width: 100px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    font-size: large;
+    border-radius: 8px;
+    border: none;
+    box-shadow: 1px 1px 2px rgb(255, 52, 86);
+    margin: 10px;
+    color: white;
+}
+
+.btnleft{
+    background-color: rgb(167, 167, 255);
+}
+
+.btnright{
+    background-color: rgb(255, 167, 167);
+}
+
+
+
+.containerforcoi {
+    display: flex;
+    /*  */
+}
+
+.mainpart h2{
+    font-size: large;
+    font-weight: bold;
+    color: rgb(45, 0, 86);
+}
+
+.mainpart p{
+    font-size: medium;
+    font-weight: lighter;
+    color: blueviolet;
+}
+
+
+
+@media screen and (max-width:600px ) {
+    .navMenu {
+        position: fixed;
+        top: 0;
+        left: 100vw;
+        z-index: 30;
+        background-color: gray;
+        width: 100vw;
+        height: 100vh;
+        flex-direction: column;
+        justify-content: center;
+        padding-top: 100px;
+        transition: all 300ms ease-in-out;
+    }
+
+    .btns {
+        display: inline-block;
+    }
+
+    #closebtn {
+        display: inline-block;
+    }
+
+}
