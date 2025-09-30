@@ -5,6 +5,10 @@
             <p>Favorite pokemon: Tatsugiri(best), Miraidon, Iron Valiant(yes I play Violet)</p>
             <p> I love Tatsugiriiii</p>
             <p> Tatsugiri so kawaii (=UwU=)</p>
+            <p> Mualani maaainnn</p>
+            <p> I have: Venti, Scara, Raiden, Furina, Nahida, Mavu, and Mualani </p>
+            <p> I luv Shadow Milk </p>
+            <p> ShadowSugar Shipper</p>
             <p>For food, prefers sushi, ramen, chicken(best fried), crab(especially cheesy), or rice(any except brown)</p>
             <p>I created The Traveller's Journey(almost everything) :D, including:</p>
             <div class = "WIM">
