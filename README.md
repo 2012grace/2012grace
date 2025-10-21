@@ -1,5 +1,5 @@
 <section class = "intro">
-            <img src = "./images/TBApic.png" alt = "Intro pic">
+            <img src = "./TBApic.png" alt = "Intro pic">
             <p>You can call me Grace/Moon/Avery</p>
             <p>I like drawing!</p>
             <p>I also like Cookie Run:Kingdom, Pokemon, and Genshin!</p>
