@@ -1,8 +1,10 @@
 <section class = "intro">
+            <img src = "./images/TBApic.png" alt = "Intro pic">
             <p>You can call me Grace/Moon/Avery</p>
             <p>I like drawing!</p>
             <p>I also like Cookie Run:Kingdom, Pokemon, and Genshin!</p>
             <p>Favorite pokemon: Tatsugiri(best), Miraidon, Iron Valiant(yes I play Violet)</p>
+            <p>mega chandelure so cool</p>
             <p> I love Tatsugiriiii</p>
             <p> Tatsugiri so kawaii (=UwU=)</p>
             <p> Mualani maaainnn</p>
