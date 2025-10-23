@@ -7,12 +7,13 @@
 <p>I know how to use phython, html and css. A bit of js also, but i'm still learning(it's very hard). I feel like canva is harder to make pretty tho.</p>
 <p>I'm good at Math but I don't really like it. I can speak trilingual(Eng, Ind, Mand). I don't like Ind. It's so hard.</p>
 <p>I can make gud beverages!! :D (I quit make matcha)</p>
+<h5>A Little More About Me</h5>
 <ul>
             <li>
                                     <table border = "1">
                                                 <tr>
-                                                            <td>-</td>
-                                                            <td>-</td>
+                                                            <td>Personal Detail</td>
+                                                            <td>Answer</td>
                                                 </tr>
                                                 <tr>
                                                             <td>Birthday</td>
@@ -22,12 +23,12 @@
                                                             <td>Libra</td>
                                                 </tr>
                                                 <tr>
-                                                            <td>chinese zodiac</td>
-                                                            <td>dragon</td>
+                                                            <td>Chinese Zodiac</td>
+                                                            <td>Dragon</td>
                                                 </tr>
                                                 <tr>
-                                                            <td>fav food</td>
-                                                            <td>crab</td>
+                                                            <td>Fav Food</td>
+                                                            <td>Crab</td>
                                                 </tr>
                                                 <tr>
                                                             <td>Fav Subject</td>
