@@ -7,30 +7,31 @@
 <p>I can make beverages! its very gud! :D (i quit matcha)</p>
 <ul>
             <li>
-                        <table>
-                                    <tr>-</tr>
-                                    <tr>-</tr>
-                        </table>
-                        <table>
-                                    <tr>Birthday</tr>
-                                    <tr>Oct. 9</tr>
-                        </table>
-                        <table>
-                                    <tr>Zodiac sign</tr>
-                                    <tr>Libra</tr>
-                        </table>
-                        <table>
-                                    <tr>chinese zodiac</tr>
-                                    <tr>dragon</tr>
-                        </table>
-                        <table>
-                                    <tr>fav food</tr>
-                                    <tr>crab</tr>
-                        </table>
-                        <table>
-                                    <tr>Fav Subject</tr>
-                                    <tr>Chemistry</tr>
-                        </table>
+                        <table border = "1">
+                                    <table>
+                                                <tr>-</tr>
+                                                <tr>-</tr>
+                                    </table>
+                                    <table>
+                                                <tr>Birthday</tr>
+                                                <tr>Oct. 9</tr>
+                                    </table>
+                                    <table>
+                                                <tr>Zodiac sign</tr>
+                                                <tr>Libra</tr>
+                                    </table>
+                                    <table>
+                                                <tr>chinese zodiac</tr>
+                                                <tr>dragon</tr>
+                                    </table>
+                                    <table>
+                                                <tr>fav food</tr>
+                                                <tr>crab</tr>
+                                    </table>
+                                    <table>
+                                                <tr>Fav Subject</tr>
+                                                <tr>Chemistry</tr>
+                                    </table>
             </li>
 </ul>
 <p>My social media:</p>
