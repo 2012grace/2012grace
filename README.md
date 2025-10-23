@@ -1,6 +1,6 @@
 <section class = "intro">
             <h2>Hello there!(silly drum noise meme)</h2>
-            <img src = "./TBApic.png" alt = "Intro pic">
+            <img src = "./Glitching avery;(.png" alt = "Intro pic">
             <p>You can call me Grace/Moon/Avery(/Gracie)</p>
             <p>I like drawing!</p>
             <p>I also like Cookie Run:Kingdom, Pokemon, and Genshin!</p>
