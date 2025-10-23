@@ -63,5 +63,8 @@
                                     </table>
                         </li>
             </ul>
-            
+            <p>My social media:</p>
+                        <a href="https://cookie-run-kingdom-ocs.fandom.com/wiki/User:DiamondMoon789">Wiki</a>
+                        <a href="#">IG</a>
+                        <a href="#">Tiktok</a>
 </section>
