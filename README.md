@@ -3,7 +3,7 @@
 <p>I want to make a game for TTJ if I get help</p>
 <p>I also like sketching, and dont mind digital drawing(not photoshop)</p>
 <p>I know how to use phython, html and css. A bit of js also, but im still learning(its very hard). I feel like canva is harder to make pretty tho.</p>
-<p>I'm good at math but i dont really like it. tdilingual(eng, ind, mand). I dont like ind. Its so hard.</p>
+<p>I'm good at math but i dont really like it. trilingual(eng, ind, mand). I dont like ind. Its so hard.</p>
 <p>I can make beverages! its very gud! :D (i quit matcha)</p>
 <ul>
             <li>
