@@ -1,75 +1,41 @@
-<section class = "intro">
-            <h2>Hello there!(silly drum noise meme)</h2>
-            <img src = "./Glitching avery;(.png" alt = "Intro pic">
-            <p>You can call me Grace/Moon/Avery(/Gracie)</p>
-            <p>I like drawing!</p>
-            <p>I also like Cookie Run:Kingdom, Pokemon, and Genshin!</p>
-            <p>Favorite pokemon: Tatsugiri(best), Miraidon, Iron Valiant(yes I play Violet)</p>
-            <p>mega chandelure so cool</p>
-            <p> I love Tatsugiriiii</p>
-            <p> Tatsugiri so kawaii (=UwU=)</p>
-            <p> Mualani maaainnn</p>
-            <p> I have: Venti, Scara, Raiden, Furina, Nahida, Mavu, and Mualani </p>
-            <p> Future Durin maain!</p>
-            <p> I luv Shadow Milk </p>
-            <p> ShadowSugar Shipper</p>
-            <p>For food, prefers sushi, ramen, chicken(best fried), crab(especially cheesy), or rice(any except brown)</p>
-            <p>I created The Traveller's Journey(almost everything) :D, including:</p>
-            <div class = "WIM">
-                <p>  -Bad and Good Adv ✨</p>
-                <p>  -EMTLSCH arc 🏫</p>
-                <p>  -Sun and Moon Arc ☀️🌙</p>
-                <p>  -Aurora Arc</p>
-                <p>  -Main Story 🔥💧🍃🧊⚡💨</p>
-                <p>  -Creators Arc 👑</p>
-                <p>  -Made main idea of Yui ✨, Hiro ✨, Nova and Yve 👑✨(named by Caitlyn @cozzyyy)</p>
-                <p>  -Ame story 👑✨</p>
-                <p>  -The 10 heroes 👑⚔️🏹👊🪄🗡️🪡🔨🔗</p>
-                <p>  -and others!✨✨✨</p>
-            <p>Everything else is made by mah brother :/</p>
-            <ul>
-                        <li>
-                                    <table>
-                                                <tr>
-                                                            <th>-</th>
-                                                            <th>Fav</th>
-                                                            <th>least fav</th>
-                                                </tr>
-                                                <tr>
-                                                            <th>Pokemon</th>
-                                                            <th>Tatsugiri</th>
-                                                            <th>Lokix</th>
-                                                </tr>
-                                                <tr>
-                                                            <th>Genshin char.</th>
-                                                            <th>Mualani/DURINN</th>
-                                                            <th>Itto(maybe)</th>
-                                                </tr>
-                                                <tr>
-                                                            <th>crk char.</th>
-                                                            <th>Shadow milkyy</th>
-                                                            <th>no idea</th>
-                                                </tr>
-                                                <tr>
-                                                            <th>food</th>
-                                                            <th>craab</th>
-                                                            <th>spicy food</th>
-                                                </tr>
-                                                <tr>
-                                                            <th>song</th>
-                                                            <th>What it sounds like(HUNTR/X)</th>
-                                                            <th>Blue lock songs</th>
-                                                </tr>
-                                                <tr>
-                                                            <th>color</th>
-                                                            <th>purplee</th>
-                                                            <th>red/black</th>
-                                                </tr>
-                                    </table>
-                        </li>
-            </ul>
-            <p>My social media:</p>
-                        <a href="https://cookie-run-kingdom-ocs.fandom.com/wiki/User:DiamondMoon789">Wiki - </a>
-                        <a href="#">IG - </a>
-                        <a href="#">Tiktok</a>
-</section>
+<h2>Hi.</h2>
+<p>I'm Grace. Please call me Moon/ Avery online. I don't mind you calling me Gracie, just don't do it online(and preferably don't spell it Gracey). I'm 13, a Dragon, a Libra. My birthday is on October 9th. Top student(prob). I like Science. Especially Chemisty. Its very interesting. I'm also the creator of The Traveller's Journey (TTJ), my OC base. I really like purple - most of the time. I like it if it is light purple ONLY.</p>
+<p>I want to make a game for TTJ if I get help</p>
+<p>I also like sketching, and dont mind digital drawing(not photoshop)</p>
+<p>I know how to use phython, html and css. A bit of js also, but im still learning(its very hard). I feel like canva is harder to make pretty tho.</p>
+<p>I'm good at math but i dont really like it. Trilingual(eng, ind, mand). I dont like ind. Its so hard.</p>
+<p>I can make beverages! its very gud! :D (i quit matcha)</p>
+<li>
+            <table>
+                        <tr>-</tr>
+                        <tr>-</tr>
+            </table>
+            <table>
+                        <tr>Birthday</tr>
+                        <tr>Oct. 9</tr>
+            </table>
+            <table>
+                        <tr>Zodiac sign</tr>
+                        <tr>Libra</tr>
+            </table>
+            <table>
+                        <tr>chinese zodiac</tr>
+                        <tr>dragon</tr>
+            </table>
+            <table>
+                        <tr>fav food</tr>
+                        <tr>crab</tr>
+            </table>
+            <table>
+                        <tr>Fav Subject</tr>
+                        <tr>Chemistry</tr>
+            </table>
+</li>
+<p>My social media:</p>
+<a href="https://cookie-run-kingdom-ocs.fandom.com/wiki/User:DiamondMoon789">Wiki - </a>
+<a href="#">IG - </a>
+<a href="#">Tiktok</a>
+<p>Here is a drawing of Avery at Season 1, like the last episode:</p>
+<img src="Glitching avery;(.png" alt="Avery pic">
+<p>I shall resort to writing the periodic table song but only the elements:</p>
+<p>Hydrogen and Helium and lithium berillium, boron carbon, nitrogen , oxygen, flourine, neon, sodium, magnesium, allluminium silicon, phosphorus and sulfur chlorine and argon, pottasium and calcium, scandium titanium vanadium and chronium(?) and manganese, iron, cobalt nickel, copper zinc and gallium, germanium and arsenic, selenium and bromine, krypton, rubidium and stronium yrritium zirconium, niobium moblydenyum tecnetiom(?) - (stop for now im in a hurry)</p>
