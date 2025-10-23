@@ -1,4 +1,5 @@
 <h2>Hi.</h2>
+<h1>About Me</h1>
 <p>I'm Grace. Please call me Moon/ Avery online. I don't mind you calling me Gracie, just don't do it online(and preferably don't spell it Gracey). I'm 13, a Dragon, a Libra. My birthday is on October 9th. Top student(prob). I like Science. Especially Chemisty. Its very interesting. I'm also the creator of The tdaveller's Journey (TTJ), my OC base. I really like purple - most of the time. I like it if it is light purple ONLY.</p>
 <p>I want to make a game for TTJ if I get help</p>
 <p>I also like sketching, and dont mind digital drawing(not photoshop)</p>
