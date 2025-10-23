@@ -7,28 +7,27 @@
 <p>I can make beverages! its very gud! :D (i quit matcha)</p>
 <ul>
             <li>
-                        <table border = "1">
-                                    <table>
+                                    <table border = "1">
                                                 <tr>-</tr>
                                                 <tr>-</tr>
                                     </table>
-                                    <table>
+                                    <table border = "1">
                                                 <tr>Birthday</tr>
                                                 <tr>Oct. 9</tr>
                                     </table>
-                                    <table>
+                                    <table border = "1">
                                                 <tr>Zodiac sign</tr>
                                                 <tr>Libra</tr>
                                     </table>
-                                    <table>
+                                    <table border = "1">
                                                 <tr>chinese zodiac</tr>
                                                 <tr>dragon</tr>
                                     </table>
-                                    <table>
+                                    <table border = "1">
                                                 <tr>fav food</tr>
                                                 <tr>crab</tr>
                                     </table>
-                                    <table>
+                                    <table border = "1">
                                                 <tr>Fav Subject</tr>
                                                 <tr>Chemistry</tr>
                                     </table>
