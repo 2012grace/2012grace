@@ -60,6 +60,11 @@
                                                             <th>What it sounds like(HUNTR/X)</th>
                                                             <th>Blue lock songs</th>
                                                 </tr>
+                                                <tr>
+                                                            <th>color</th>
+                                                            <th>purplee</th>
+                                                            <th>red/black</th>
+                                                </tr>
                                     </table>
                         </li>
             </ul>
